@@ -1,5 +1,9 @@
-This is the ongoing project in which i carried out statistical analysis on variables and built forward selection method from scratch in python.
-Handled outliers using capping method and converted variable distribution to normal using log and square transformation. And Currently carrying out modeling and assumption test.
-Original data is available in insurance.csv
-Cleaned.csv file contains cleaned and transformed data.
-Stay tuned soon will drop complete documentation of project.
+Check Out statistical_analysis_and_modeling.ipynb file for project.
+Insurance Cost Preditcion.
+Started by data cleaning and then Carried out Statistical testing and graphical analysis.
+Built Forwrd selection method from scratch in python to select variables for modeling
+Handled outliers using capping method.
+Normalised independent Variables Using square and log transformers.
+Built regression model and built pipeline using sklearn pipeline and transformers to automate the data prepration task.
+Packed the Model using pickle.
+For testing of model pack check out deployed_model_tetsing.ipynb file.
